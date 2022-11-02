@@ -1,0 +1,7 @@
+// 1.19.2	2022-11-02T00:17:44.7558818	Block States: vorkitus
+f85332317fdab87e10fa706f5875a1f9d2f369cd assets/vorkitus/blockstates/magic_iron_ore.json
+adcd2454fd8fdcf4eea63fe4a3f0cb8cb651a3fa assets/vorkitus/blockstates/spreading_void.json
+9c24bfa4805dae53cbacbc0c27ef0d5760824c65 assets/vorkitus/models/block/magic_iron_ore.json
+33b8443df8c4b4131cb4fd6ad14b81b99d53089b assets/vorkitus/models/block/spreading_void.json
+0c73c54bd0509d76def62d3200f735550972af18 assets/vorkitus/models/item/magic_iron_ore.json
+606f9255811e28682ad7d2ff9a72fb1cc9083130 assets/vorkitus/models/item/spreading_void.json

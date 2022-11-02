@@ -1,0 +1,4 @@
+// 1.19.2	2022-11-02T19:35:58.6703151	Tags for minecraft:block
+ccbb085a9ade9eece209efa4644d5ae6e5ee3dbb data/minecraft/tags/blocks/dragon_immune.json
+ccbb085a9ade9eece209efa4644d5ae6e5ee3dbb data/minecraft/tags/blocks/wither_immune.json
+a4fcec6ed4cb4abbb9acf6361665c22d2e08d19d data/vorkitus/tags/blocks/no_spreading_void.json
